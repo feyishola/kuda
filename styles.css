@@ -1,0 +1,105 @@
+.kuda-phone--illustration {
+  bottom: 0;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+}
+.hasAnimation {
+  margin-top: -12px;
+  position: relative;
+}
+.kuda-illustration--center {
+  display: flex;
+  justify-content: center;
+}
+.hasAnimation [aria-label="animation"] {
+  overflow: visible !important;
+  pointer-events: none;
+}
+/* g[Attributes Style] {
+  clip-path: url(#__lottie_element_2);
+} */
+.kuda-phone--illustration > div {
+  display: flex;
+}
+.kuda-phone--illustration svg {
+  height: auto !important;
+  margin: auto;
+  position: relative;
+  top: -11px;
+  width: calc(100% - 100px) !important;
+}
+image {
+  overflow: hidden;
+}
+
+/* .kuda-entry--inner:not(.kuda-cta--section) {
+  min-height: 540px;
+  overflow: hidden;
+}
+.kuda-section--42 {
+  width: 42%;
+}
+.kuda-main--wrap {
+  max-width: 450px;
+}
+.text-xlbold {
+  font-weight: 900;
+}
+
+.color-primary {
+  color: var(--primaryColor);
+}
+.text-xl {
+  font-size: 3rem !important;
+  line-height: 1.15;
+}
+.hasAnimation {
+  margin-top: -12px;
+  position: relative;
+}
+
+.kuda-business-illustration--center,
+.kuda-illustration--center {
+  display: flex;
+  justify-content: center;
+}
+.hasAnimation [aria-label="animation"] {
+  overflow: visible !important;
+  pointer-events: none;
+}
+.kuda-phone--illustration {
+  bottom: 0;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+}
+.kuda-phone--illustration > div {
+  display: flex;
+}
+.kuda-phone--illustration svg {
+  height: auto !important;
+  margin: auto;
+  position: relative;
+  top: -11px;
+  width: calc(100% - 100px) !important;
+}
+svg:not(:root) {
+  overflow-clip-margin: content-box;
+  overflow: hidden;
+}
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+*,
+:after,
+:before {
+  box-sizing: inherit;
+} */
